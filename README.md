@@ -11,7 +11,7 @@
 - 🧰 Git & GitHub
 
 ## 📌 Featured Projects
-- [Portfolio Website](https://alexpacaldo.github.io/Portfolio) – My personal website
+- [Portfolio Website](https://alexpacaldo.vercel.app/) – My personal website
 - [Rekta Sikad](https://github.com/AlexPacaldo/MiniProject1) – Frontend JS App
 - [Araña](https://alexpacaldo.github.io/MiniProject2/) – Job Finder website(Mini Project 2)
 

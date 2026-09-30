@@ -11,8 +11,9 @@
 - 🧰 Git & GitHub
 
 ## 📌 Featured Projects
-- [Portfolio Website](https://alexpacaldo.vercel.app/) – My personal website
-- [Rekta Sikad](https://github.com/AlexPacaldo/MiniProject1) – Frontend JS App
+- [Portfolio](https://alexpacaldo.vercel.app/) – My personal website
+- [Hachi-Review](https://hachi-review.site/) – Reviewer Website
+- [Side Eye Game](https://sideeye-game.vercel.app/) – Game
 - [Araña](https://alexpacaldo.github.io/MiniProject2/) – Job Finder website(Mini Project 2)
 
 ## 📫 Let's Connect!

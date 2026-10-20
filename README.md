@@ -12,7 +12,7 @@
 
 ## 📌 Featured Projects
 - [JEN Academia](https://jenacademia.com/) - College Thesis
-- - [Hachi-Review](https://hachi-review.site/) – Reviewer Website
+- [Hachi-Review](https://hachi-review.site/) – Reviewer Website
 - [Portfolio](https://alexpacaldo.vercel.app/) – My personal website
 - [Side Eye Game](https://sideeye-game.vercel.app/) – Game
 
